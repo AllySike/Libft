@@ -31,10 +31,10 @@ SRCS =		$(SRCS_DIR)/ft_atoi.c	\
 			$(SRCS_DIR)/ft_memcpy.c	\
 			$(SRCS_DIR)/ft_memmove.c	\
 			$(SRCS_DIR)/ft_memset.c	\
-			$(SRCS_DIR)/ft_putchar_fd.c	\
-			$(SRCS_DIR)/ft_putendl_fd.c	\
-			$(SRCS_DIR)/ft_putnbr_fd.c	\
-			$(SRCS_DIR)/ft_putstr_fd.c	\
+			$(SRCS_DIR)/ft_putchar.c	\
+			$(SRCS_DIR)/ft_putendl.c	\
+			$(SRCS_DIR)/ft_putnbr.c	\
+			$(SRCS_DIR)/ft_putstr.c	\
 			$(SRCS_DIR)/ft_split.c	\
 			$(SRCS_DIR)/ft_strchr.c	\
 			$(SRCS_DIR)/ft_strdup.c	\
